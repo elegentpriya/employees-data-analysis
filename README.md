@@ -48,4 +48,5 @@ The code removes rows with missing salary values using dropna() and creates a ne
 It converts the 'Salary' column to the float data type using astype(float).
 The code then plots a scatter plot using plt.scatter() with 'Age' on the x-axis and 'Salary' on the y-axis.
 This scatter plot visually represents the correlation between age and salary for the employees.
-These code snippets analyze the dataset and provide insights into the number of employees in each team, the distribution of positions, the age group with the most employees, the team and position with the highest spending, and the correlation between age and salary.
+
+These code  analyze the dataset and provide insights into the number of employees in each team, the distribution of positions, the age group with the most employees, the team and position with the highest spending, and the correlation between age and salary.
